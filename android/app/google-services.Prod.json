@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "323934766345",
+    "project_id": "retriever3production",
+    "storage_bucket": "retriever3production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323934766345:android:4f88a1847e69fd235b7fd8",
+        "android_client_info": {
+          "package_name": "com.retrieverbuyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323934766345-78r18ummjn3sa93jhkk70s65unia5uqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18jBigg65IYxCvXdCHl54ZGUOMCB3-3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323934766345-78r18ummjn3sa93jhkk70s65unia5uqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323934766345-mn9cbi9l2pdiut0gbj72l24426ggmj0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retriever.uyer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

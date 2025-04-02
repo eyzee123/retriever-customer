@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "606808897319",
+    "project_id": "retrieverph3",
+    "storage_bucket": "retrieverph3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606808897319:android:48a6bcc8ea6a52d55bdb02",
+        "android_client_info": {
+          "package_name": "com.retrieverbuyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606808897319-5no9tuevca82upcrccd3t5473doq2fii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "e1138f9d4da31833c49e78af60d7938d4023ff88"
+          }
+        },
+        {
+          "client_id": "606808897319-b2ebe19tib5lr8m5b7ikhi9likt51566.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "85dc2b4cb9b95c37a0c20b32505565cbf9505e90"
+          }
+        },
+        {
+          "client_id": "606808897319-mn5emtgn9bvivcc02r6vr6238jp1t6uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOnvHRqLOdS7Qbdh1dH5bQVZsrU6p6iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606808897319-27tvlaf0a642opqjpienoosvl8d5qk1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retrieverbuyer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606808897319:android:c963a121dfcdc33d5bdb02",
+        "android_client_info": {
+          "package_name": "com.retriever.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOnvHRqLOdS7Qbdh1dH5bQVZsrU6p6iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606808897319-27tvlaf0a642opqjpienoosvl8d5qk1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retrieverbuyer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606808897319:android:4f995a368ae9a1265bdb02",
+        "android_client_info": {
+          "package_name": "com.retriever.testNotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOnvHRqLOdS7Qbdh1dH5bQVZsrU6p6iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606808897319-27tvlaf0a642opqjpienoosvl8d5qk1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retrieverbuyer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606808897319:android:42e325a1f5a1e7725bdb02",
+        "android_client_info": {
+          "package_name": "com.retrieverseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOnvHRqLOdS7Qbdh1dH5bQVZsrU6p6iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606808897319-1msgf8dpn1104ihs6e8tijuoi1i3v1te.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606808897319-27tvlaf0a642opqjpienoosvl8d5qk1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retrieverbuyer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

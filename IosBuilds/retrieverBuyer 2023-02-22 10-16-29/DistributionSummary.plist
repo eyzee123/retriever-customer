@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>retrieverBuyer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DFE6F8B25E579A89776380E58F309361C73F5C29</string>
+				<key>dateExpires</key>
+				<string>11/25/23</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>buildNumber</key>
+					<string>5</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DFE6F8B25E579A89776380E58F309361C73F5C29</string>
+						<key>dateExpires</key>
+						<string>11/25/23</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GMM38QJ4GA</string>
+						<key>name</key>
+						<string>Retriever Tech Corp.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GMM38QJ4GA.com.retrieverbuyer</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GMM38QJ4GA</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>retrieverBuyer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b90e3c9f-35ce-462e-85ce-9cfa271f7f7a</string>
+				<key>dateExpires</key>
+				<string>11/25/23</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.retrieverbuyer</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GMM38QJ4GA</string>
+				<key>name</key>
+				<string>Retriever Tech Corp.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

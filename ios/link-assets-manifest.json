@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/HKGrotesk-Bold.ttf",
+      "sha1": "951559435bb109a422da130121235b79c0aa7b03"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-BoldItalic.ttf",
+      "sha1": "5e34a442257c8155047022e25d7793a7e2fb4af1"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-BoldLegacy.ttf",
+      "sha1": "6133c7e58766c2a6817e270746acda17e85c3197"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-BoldLegacyItalic.ttf",
+      "sha1": "b35bd2081764a89e977bc5753b803d4e036e2b17"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-Italic.ttf",
+      "sha1": "e27edd5bbe86f20a90fdfa8c78447bcd2df8bb81"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-LegacyItalic.ttf",
+      "sha1": "86702d3ede36d59ee3c5d6b95a3f453753f48e82"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-Light.ttf",
+      "sha1": "fd2a6395e0d5c49fdcbf61b5aa5ee8ddc8f4536a"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-LightItalic.ttf",
+      "sha1": "61c58663e764b02ad3c0bcc342397ebfba61be35"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-LightLegacy.ttf",
+      "sha1": "3d6b1647f79a1b51a8752e8a9d1686e74ab12b1e"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-LightLegacyItalic.ttf",
+      "sha1": "fe943493457a499f73b4e71615d2301495e8a331"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-Medium.ttf",
+      "sha1": "6928596e3f9076de99564862afa3702785d60d6f"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-MediumItalic.ttf",
+      "sha1": "17786317443ac6c70882b61ee173df6e4998f6fc"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-MediumLegacy.ttf",
+      "sha1": "2b4455e59a3327c8662bdd7daa6e74a369e7d6df"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-MediumLegacyItalic.ttf",
+      "sha1": "a075fcf3e62015291dd8998df10c354a0efed3bf"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-Regular.ttf",
+      "sha1": "b35653d34f64a128da4d4bd291bd56bb8974da00"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-RegularLegacy.ttf",
+      "sha1": "c932dea98e61ac322d8e30d3824eda46ccaa6821"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-SemiBold.ttf",
+      "sha1": "c77d172ec4be1a9953f30405f074b3f2f235f71f"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-SemiBoldItalic.ttf",
+      "sha1": "37ba0b9cbdab526f5f572bcaa445712f87720bbf"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-SemiBoldLegacy.ttf",
+      "sha1": "911f3067989dddd2c4f26f7ad2e2efba7b4f6ce2"
+    },
+    {
+      "path": "assets/fonts/HKGrotesk-SemiBoldLegacyItalic.ttf",
+      "sha1": "bdc84ffe060f7db0cad88eb82955d189a7f06cbc"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "project_info": {
+    "project_number": "302943273332",
+    "project_id": "retrieverv2dev",
+    "storage_bucket": "retrieverv2dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:b0e7fc04534309e194ac21",
+        "android_client_info": {
+          "package_name": "com.retriever.retrieverv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:f3ba994dc4175b6794ac21",
+        "android_client_info": {
+          "package_name": "com.retriever_ph.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:742e55e5cf65d71894ac21",
+        "android_client_info": {
+          "package_name": "com.retriever_ph.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:6cccc4520d38040e94ac21",
+        "android_client_info": {
+          "package_name": "com.retrieverbuyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-674labno1tl1m97thnjh9ka3gvisqm8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "37cccc2a4e7a24b16f3f080e1ba1c8692c25aaac"
+          }
+        },
+        {
+          "client_id": "302943273332-bltrfjaom0mbdrhre0o5sdm5cupi4ktn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "85dc2b4cb9b95c37a0c20b32505565cbf9505e90"
+          }
+        },
+        {
+          "client_id": "302943273332-gqp2ajk88m16ibtq8mmij010q3h85mq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "302943273332-hfp766uc9vbnum18i9fpg563i7nrti5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "e1138f9d4da31833c49e78af60d7938d4023ff88"
+          }
+        },
+        {
+          "client_id": "302943273332-lk0lrm7cq82h6o0791mg0fhg0imgoalr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverbuyer",
+            "certificate_hash": "6ecbf3e4246ccf99d0a898106cd3939786dff598"
+          }
+        },
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:1b5c351b6df0339c94ac21",
+        "android_client_info": {
+          "package_name": "com.retrieverrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:2f6919fa3734219194ac21",
+        "android_client_info": {
+          "package_name": "com.retrieverriderappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302943273332:android:02325c9c7a0895cc94ac21",
+        "android_client_info": {
+          "package_name": "com.retrieverseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302943273332-1k66eo4ihh5a643hb98avj4crielpg5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverseller",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "302943273332-rccsvjo6g1vhu75r6a67g3t6c55r1vqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrieverseller",
+            "certificate_hash": "e1138f9d4da31833c49e78af60d7938d4023ff88"
+          }
+        },
+        {
+          "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5W6Yk4PsgJPGU3qjuVSX8SjdHHkck5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302943273332-7ue2jfjnha9mqdvk873pnlp0aa6jmvdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302943273332-0dr8323af7e8hb55fgsq80vco56ql3tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Retriever.Merchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>retrieverBuyer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>2</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A23A9C44AB52E69C7973A55AB1EFB253D9320D2E</string>
+				<key>dateExpires</key>
+				<string>11/25/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.11.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A23A9C44AB52E69C7973A55AB1EFB253D9320D2E</string>
+						<key>dateExpires</key>
+						<string>11/25/23</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GMM38QJ4GA</string>
+						<key>name</key>
+						<string>Retriever Tech Corp.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.11.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GMM38QJ4GA.com.retrieverbuyer</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GMM38QJ4GA</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>retrieverBuyer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>fd703f9b-d07f-40b2-8c1c-c139fd2f6634</string>
+				<key>dateExpires</key>
+				<string>2/11/24</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.retrieverbuyer</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GMM38QJ4GA</string>
+				<key>name</key>
+				<string>Retriever Tech Corp.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
